@@ -48,7 +48,7 @@ function draw() {
                 fill("#acacac");
             }
             else if(matrix[y][x] == 1) {
-                fill("blue");
+                fill("#55ffaa");
             }
             else if(matrix[y][x] == 2) {
                 fill("yellow");
